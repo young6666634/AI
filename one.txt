@@ -1,2 +1,3 @@
 one
 one agin
+one agin^2
